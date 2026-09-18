@@ -29,3 +29,5 @@ ModuleNotFoundError: No module named 'torch'
 Tai thanh cong chua
 <img width="1582" height="600" alt="image" src="https://github.com/user-attachments/assets/357f4b66-137b-4163-984f-ad14b09a577d" />
 
+<img width="1582" height="34" alt="image" src="https://github.com/user-attachments/assets/4995cd4f-c5f1-4ac7-88c1-fb0e7fb62170" />
+
