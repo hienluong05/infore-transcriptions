@@ -25,3 +25,7 @@ Traceback (most recent call last):
   File "/u01/user-data/sontc/hienluong/generate-dataset-omnivoice-main/generate-dataset-omnivoice-main/infore-transcriptions-main/generate_even.py", line 206, in main
     import torch
 ModuleNotFoundError: No module named 'torch'
+
+Tai thanh cong chua
+<img width="1582" height="600" alt="image" src="https://github.com/user-attachments/assets/357f4b66-137b-4163-984f-ad14b09a577d" />
+
